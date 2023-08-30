@@ -1,4 +1,7 @@
 ### Hi there 👋
+### Front-End Developer
+#### 💚 [Portpolio](https://ddd120.me/)
+#### ✉️ ddds0120m@gmail.com
 
 <!--
 **DDD120/DDD120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
